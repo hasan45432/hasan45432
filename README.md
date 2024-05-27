@@ -26,9 +26,14 @@
 ## my projects languages  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan45432&hide_progress=true"/>
 
+  <h2>Information</h2>
+    <img  style="" src="https://github-profile-trophy.vercel.app/?username=hasan45432&theme=gruvbox"/>
+
   <h2 style="font-weight: bold;"> Contact me </h2>   
 <a style="display:flex; align-items: center;" href="https://t.me/HasanFadakar">
     <img  style="height: 30px;" src="https://img.shields.io/badge/Telegram-https://t.me/HasanFadakar-blue?style=flat&logo=telegram"/>
 </a>
-  
+
+
+
 
