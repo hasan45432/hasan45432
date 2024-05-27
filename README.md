@@ -25,6 +25,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan45432&hide_progress=true"/>
 
   <h2 style="font-weight: bold;"> Contact me </h2>   
-  <img href:"" style="width: 3rem;" src="https://github.com/hasan45432/hasan45432/blob/main/icons8-telegram-94.png?raw=true"/>
+<a href="https://t.me/HasanFadakar">
+    <img src="https://github.com/hasan45432/hasan45432/blob/main/icons8-telegram-94.png?raw=true" style="width: 3rem;">
+</a>
   
 
